@@ -11,6 +11,6 @@
 <text x="54" y="78.0" font-size="12" fill="#8B949E" text-anchor="end">2</text>
 <text x="64" y="390" font-size="12" fill="#8B949E">Oct 03, 2026</text>
 <text x="1152" y="390" font-size="12" fill="#8B949E" text-anchor="end">Oct 04, 2026</text>
-<path d="M 64.0,364.0 L 1152.0,364.0 L 1152.0,219.0 L 1152.0,219.0 L 1152.0,74.0 L 1152.0,74.0" fill="none" stroke="#E6EDF3" stroke-width="2.5" stroke-linejoin="miter"/>
+<path d="M 64.0,364.0 L 137.1,364.0 L 137.1,219.0 L 142.8,219.0 L 142.8,74.0 L 1152.0,74.0" fill="none" stroke="#E6EDF3" stroke-width="2.5" stroke-linejoin="miter"/>
 <circle cx="1152.0" cy="74.0" r="5" fill="#E8571A"/>
 </svg>
