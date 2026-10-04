@@ -1,28 +1,27 @@
-# 贡献指南
+# Contributing
 
-## 反馈问题（Issue）
+Issues and PRs welcome. Keep it simple.
 
-标题格式建议：`[问题]` 或 `[建议]` + 一句话描述。正文请尽量附上：
+## Issues
 
-- 打印机型号、材料、切片器及关键参数
-- 失败/成功的照片或截图
-- 复现步骤（如装配卡滞的具体部位）
+Print parameters, failure reports, improvement ideas — open an issue. Include:
 
-## 提交改动（PR）
+- printer, material, slicer and the settings that matter
+- photos of failures and successes
+- what you expected vs. what happened
 
-1. Fork 本仓库到你的账号下
-2. 从 `main` 切出分支：`feat/xxx`（新功能）或 `fix/xxx`（修复）
-3. 涉及几何文件的改动，请附改动前后对比图与切片验证截图
-4. 发起 Pull Request 指向 `main`，通过维护者审查后 squash merge
+## Pull requests
 
-## 分支与版本约定
+1. Fork and branch from `main` (`fix/…` or `feat/…`)
+2. Geometry changes: attach before/after images and a slicer screenshot
+3. Open the PR against `main` — it gets squash-merged after review
 
-- `main` 分支永远保持"可直接下载打印"的稳定状态
-- 版本以 tag（如 `v1.1.0`）+ GitHub Release 的形式发布
-- 功能分支是临时工作区，合并后即删除；不要长期占用分支名
+## Branches & versions
 
-## Contributor 认定
+- `main` is always in a printable state
+- Releases are tags (`v1.1.0`) + GitHub Releases
+- Feature branches are temporary — delete after merge
 
-- 被合并进 `main` 的 PR，其作者会自动进入仓库右侧 Contributors 列表
-- 多人协作的同一改动，请在 commit 中使用 `Co-authored-by:` 尾注注明共同作者
-- 非代码贡献（测试打印、成品照片、文档翻译等）记录于 `CREDITS.md`
+## Credit
+
+Merged PR authors land in the Contributors list automatically. Non-code help (test prints, photos, translations) goes to [CREDITS.md](CREDITS.md).

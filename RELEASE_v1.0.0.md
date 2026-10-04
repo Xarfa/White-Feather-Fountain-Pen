@@ -1,23 +1,21 @@
-# Release v1.0.0 · 开源之春
+# Release v1.0.0
 
-- **发布日期**：2026-10-03
-- **资产**：`wf672_v1.0.0.stl`（约 5.9 MB · 118,536 三角面 · 5 个独立实体）
-- **SHA256**：`8a16617b518decb1727de0f6e92ca25dfc7c0ba6c753dab334b4d3be4d29e0f3`
+First public release of **wf672** — an open-source 3D-printed fountain pen, released as a single STL under [CC BY 4.0](LICENSE).
 
-白翎 wf672 首次公开发布：一支适配**市售通用 18.5mm 暗尖笔芯**的模块化 3D 打印钢笔笔身。本次公开**笔身全套打印文件**。
+## This release
 
-## 这个版本包含
+- `wf672_v1.0.0.stl` — the print file
+- License: CC BY 4.0 — copy, modify, redistribute and sell allowed with attribution. No trademark rights: derived works should use their own naming, not "wf672".
 
-- 笔身打印文件 ×1（单 STL 含 5 实体：笔帽、笔杆等，切片时可「按零件拆分」）
-- 整笔尺寸：总长约 142 mm，最大外径 Ø13.7 mm（含笔夹约 17 mm）
-- 结构特点：模块化可拆卸笔身，笔芯插座兼容市购 18.5mm 暗尖笔芯
+## Not included
 
-## 已知限制
-
-- **不含笔芯**——18.5mm 暗尖笔芯为市购标准件，请自行购买
-- 单 STL 内 5 个零件为装配位姿，切片拆分后需手动摆盘（v1.1 将提供分件文件）
-- 打印公差因机型、材料而异，欢迎在 Issue 中反馈你的参数与实测效果
+- CAD sources, BOM, assembly instructions — by design. STL only.
+- The nib unit is a purchased standard part and is not distributed here.
 
 ## Roadmap
 
-- v1.1：按零件拆分的独立 STL / 3MF（带打印朝向）
+- `v1.0.x` — fixes from community feedback (print tolerances, joint fits)
+- `v1.2.0` — first line graduation once the current file proves itself
+- Sibling lines wf671 / wf673 run on their own schedules
+
+Feedback via [Issues](../../issues) — print parameters and failure reports especially welcome.

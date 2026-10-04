@@ -1,9 +1,8 @@
-# CREDITS · 致谢
+# Credits
 
-记录代码与几何文件之外的贡献：测试打印、成品照片、文档翻译、参数反馈等。
-（被合并进 `main` 的 PR 作者会自动进入 GitHub 的 Contributors 列表，无需在此重复登记。）
+For everything beyond code and geometry: test prints, photos, translations, parameter feedback. (Merged PR authors already appear in GitHub's Contributors list.)
 
-<!-- 格式示例：
-- [@某人GitHubID](链接) — 首个 PLA 打印验证 + 公差反馈（v1.0.1）
-- [@某人GitHubID](链接) — 英文文档翻译
+<!-- Format:
+- [@github-handle](link) — first PLA test print + tolerance feedback (v1.0.1)
+- [@github-handle](link) — German translation
 -->
