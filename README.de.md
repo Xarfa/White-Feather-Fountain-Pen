@@ -8,13 +8,13 @@
 [![RedNote](https://img.shields.io/badge/RedNote-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0-FF2442)](https://www.xiaohongshu.com/user/profile/65b21361000000000e00224f)
 [![E-Mail](https://img.shields.io/badge/E--Mail-rattry4codex%40163.com-6E6F6B)](mailto:rattry4codex@163.com)
 
-<img src="assets/sec_trans_br.png" alt="wf672 — Querschnitte" width="720">
-
-<img src="assets/sec_long_color_wide.png" alt="wf672 — Längsschnitt" width="720">
-
 [English](README.md) · [简体中文](README.zh-CN.md) · [Русский](README.ru.md) · [日本語](README.ja.md)
 
 <p align="center"><a href="https://xarfa.github.io/wffp/"><font size="5"><b>Alle Details unter xarfa.github.io/wffp</b></font></a></p>
+
+<img src="assets/sec_trans_br.png" alt="wf672 — Querschnitte" width="720">
+
+<img src="assets/sec_long_color_wide.png" alt="wf672 — Längsschnitt" width="720">
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## Die Idee
 
-wf672 ist ein originaler 3D-gedruckter Füller des Autors. Lade die STL aus den Releases und baue deinen eigenen — danach erkunde alles selbst. Bitte frag den Autor nicht nach Dateien, die nie offen gelegt wurden (Handbücher inklusive): Die STL ist das ganze Projekt.
+wf672 ist ein originaler 3D-gedruckter Füller des Autors. Lade die STL aus den Releases und baue deinen eigenen — danach erkunde alles selbst.
 
 WhiteFeather (wf71 und Geschwister) ist die Automatik-Sauger-Linie, die das Dandong-Federwerk seit 1968 produziert — erkennbar am ersten gerippten Kapillarkern überhaupt, der „Maiskolben“-Struktur; wf672 baut diese klassische Struktur nach und verbessert sie.
 
