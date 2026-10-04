@@ -1,18 +1,18 @@
 <div align="center">
 
-# wf672
+# White Feather Fountain Pen
 
-### White Feather 672 — открытая 3D-печатная перьевая ручка.
+### Байлин · открытая 3D-печатная перьевая ручка
 
 [![Лицензия: CC BY 4.0](https://img.shields.io/badge/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Сайт](https://img.shields.io/badge/site-xarfa.github.io%2Fwffp-1A1B1D)](https://xarfa.github.io/wffp/)
-[![Файл](https://img.shields.io/badge/%D1%84%D0%B0%D0%B9%D0%BB-wf672__v1.0.0.stl-6E6F6B)](wf672_v1.0.0.stl)
+[![RedNote](https://img.shields.io/badge/RedNote-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0-FF2442)](https://www.xiaohongshu.com/user/profile/65b21361000000000e00224f)
+[![Почта](https://img.shields.io/badge/%D0%9F%D0%BE%D1%87%D1%82%D0%B0-rattry4codex%40163.com-6E6F6B)](mailto:rattry4codex@163.com)
 
-<img src="assets/sec_trans_br.png" alt="wf672 — поперечные сечения" width="720">
+<img src="assets/sec_trans_br.png" alt="wf672 — поперечные сечения" width="340">&nbsp;<img src="assets/sec_long_color_wide.png" alt="wf672 — продольное сечение" width="340">
 
-**Печатай. Модифицируй. Продавай.** — один STL, CC BY 4.0, без условий.
+[English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [Deutsch](README.de.md)
 
-**[xarfa.github.io/wffp](https://xarfa.github.io/wffp/)** &nbsp;·&nbsp; [English](README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [Deutsch](README.de.md)
+<p align="center"><a href="https://xarfa.github.io/wffp/"><font size="5"><b>Все подробности — xarfa.github.io/wffp</b></font></a></p>
 
 </div>
 
@@ -20,11 +20,11 @@
 
 ## Идея
 
-Перьевая ручка требует изысканности, а печать её не даёт. Поэтому wf672 не борется с этим — она идёт в брутализм: честные слои, открытая резьба, сырой техничный вид. Пишущий конец — стандартная деталь, которую можно купить; всё остальное печатай, ломай, чини и переделывай.
+wf672 — оригинальная 3D-печатная перьевая ручка автора. Скачайте STL из Releases и сделайте свою — дальше исследуйте сами. Не просите у автора файлы, которые не были открыты (включая инструкции): STL — это весь проект.
 
-Открыто намеренно. **Только STL** — без CAD-исходников, без BOM, без инструкции по сборке. Переделывай, форкай, печатай и продавай отпечатки — сохрани Attribution и оставь имя *wf672* оригиналу.
+Байлин (白翎) — серия автоматических перьев даньдунской фабрики 1968 года: рифлёный капиллярный сердечник, который коллекционеры зовут «кукурузным початком», набирает чернила от прикосновения; wf672 воспроизводит именно эту структуру.
 
-**Версии.** Патч — починка (`v1.1.1` → `v1.1.2`); линия взрослеет, когда держится (`v1.1.1` → `v1.2.1`); сверхстабильный релиз (например `v1.5.1`) уходит в закрытый продукт — а открытая линия начинается заново с `v2.0.0`. wf672 — открытая линия; родственные линии (wf671, wf673) живут по своему расписанию.
+<div align="center">
 
 ## Star History
 
@@ -34,3 +34,5 @@
 </picture>
 
 *Обновляется каждую неделю · © 2026 Xarfa*
+
+</div>

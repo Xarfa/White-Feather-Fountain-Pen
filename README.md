@@ -1,16 +1,18 @@
 <div align="center">
 
-# White Feather Fountain Pen 
+# White Feather Fountain Pen
 
-### open-source 3D-printed fountain pen. CC BY 4.0
+### open-source 3D-printed fountain pen
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Site](https://img.shields.io/badge/site-xarfa.github.io%2Fwffp-1A1B1D)](https://xarfa.github.io/wffp/)
-[![STL](https://img.shields.io/badge/file-wf672__v1.0.0.stl-6E6F6B)](wf672_v1.0.0.stl)
+[![RedNote](https://img.shields.io/badge/RedNote-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0-FF2442)](https://www.xiaohongshu.com/user/profile/65b21361000000000e00224f)
+[![Email](https://img.shields.io/badge/Email-rattry4codex%40163.com-6E6F6B)](mailto:rattry4codex@163.com)
 
-<img src="assets/sec_trans_br.png" alt="wf672 — transverse sections" width="720">
+<img src="assets/sec_trans_br.png" alt="wf672 — transverse sections" width="340">&nbsp;<img src="assets/sec_long_color_wide.png" alt="wf672 — longitudinal section" width="340">
 
-**[xarfa.github.io/wffp](https://xarfa.github.io/wffp/)** &nbsp;·&nbsp; [简体中文](README.zh-CN.md) · [Русский](README.ru.md) · [日本語](README.ja.md) · [Deutsch](README.de.md)
+[简体中文](README.zh-CN.md) · [Русский](README.ru.md) · [日本語](README.ja.md) · [Deutsch](README.de.md)
+
+<p align="center"><a href="https://xarfa.github.io/wffp/"><font size="5"><b>Full details at xarfa.github.io/wffp</b></font></a></p>
 
 </div>
 
@@ -18,11 +20,11 @@
 
 ## The idea
 
-A fountain pen asks for refinement, and printing can't deliver that. So wf672 doesn't fight it — it goes brutalism: honest layers, exposed threads, a raw technical look. The writing end is a standard part you can buy; everything else is yours to print, break, fix and rebuild.
+wf672 is an original 3D-printed fountain pen. Download the STL from Releases and build your own — everything after that is yours to explore. Please don't ask the author for files that were never open-sourced (manuals included): the STL is the whole project.
 
-Released open on purpose. **STL only** — no CAD sources, no BOM, no assembly manual. Remix it, fork it, print it and sell the prints; just keep the attribution and leave the name *wf672* to the original.
+Bailing (白翎) was Dandong Pen Factory's 1968 auto-suction line, whose grooved capillary core — collectors call it the "corn cob" — drinks ink on contact; wf672 rebuilds exactly that structure in a body you can print.
 
-**Versioning.** Patch bumps fix things (`v1.1.1` → `v1.1.2`); a line graduates when it holds up (`v1.1.1` → `v1.2.1`); a super-stable release (say `v1.5.1`) graduates to a closed-source product — and the open line restarts at `v2.0.0`. wf672 is the open line; sibling lines (wf671, wf673) run their own schedules.
+<div align="center">
 
 ## Star History
 
@@ -32,3 +34,5 @@ Released open on purpose. **STL only** — no CAD sources, no BOM, no assembly m
 </picture>
 
 *Auto-updated weekly · © 2026 Xarfa*
+
+</div>
