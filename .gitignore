@@ -1,0 +1,14 @@
+# 切片器 / CAD 缓存
+*.3mf.bak
+*.gcode
+*.bgcode
+*.mcam
+.DS_Store
+Thumbs.db
+
+# 私人文件（万一误放）
+photos/*_original.*
+*.doc
+*.docx
+*.pdf
+!LICENSE
