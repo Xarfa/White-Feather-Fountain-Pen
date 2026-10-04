@@ -1,16 +1,14 @@
 <div align="center">
 
-# wf672
+# White Feather Fountain Pen 
 
-### White Feather 672 — an open-source 3D-printed fountain pen.
+### open-source 3D-printed fountain pen. CC BY 4.0
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Site](https://img.shields.io/badge/site-xarfa.github.io%2Fwffp-1A1B1D)](https://xarfa.github.io/wffp/)
 [![STL](https://img.shields.io/badge/file-wf672__v1.0.0.stl-6E6F6B)](wf672_v1.0.0.stl)
 
 <img src="assets/sec_trans_br.png" alt="wf672 — transverse sections" width="720">
-
-**Print it. Mod it. Sell it.** — one STL, CC BY 4.0, no strings.
 
 **[xarfa.github.io/wffp](https://xarfa.github.io/wffp/)** &nbsp;·&nbsp; [简体中文](README.zh-CN.md) · [Русский](README.ru.md) · [日本語](README.ja.md) · [Deutsch](README.de.md)
 
