@@ -15,6 +15,16 @@ ASSETS = REPO / "assets"
 SLUG = os.environ.get("REPO_SLUG", "Xarfa/White-Feather-Fountain-Pen")
 
 
+def next_page_url(resp):
+    """Parse the Link response header for rel="next" (urllib has no .links)."""
+    link = resp.headers.get("Link") or ""
+    for part in link.split(","):
+        seg = part.split(";")
+        if len(seg) >= 2 and 'rel="next"' in seg[1]:
+            return seg[0].strip().strip("<>")
+    return None
+
+
 def fetch_stars():
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
@@ -30,7 +40,7 @@ def fetch_stars():
         with urllib.request.urlopen(req, timeout=30) as r:
             batch = json.load(r)
             times += [s["starred_at"] for s in batch]
-            url = r.links.get("next", {}).get("url")
+            url = next_page_url(r)
     req = urllib.request.Request(f"https://api.github.com/repos/{SLUG}", headers={
         "Authorization": f"Bearer {token}", "User-Agent": "star-chart"})
     with urllib.request.urlopen(req, timeout=30) as r:
