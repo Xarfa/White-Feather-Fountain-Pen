@@ -8,7 +8,9 @@
 [![RedNote](https://img.shields.io/badge/RedNote-%E6%94%B9%E9%80%A0%E6%88%91%E4%BB%AC%E7%9A%84%E5%AD%A6%E4%B9%A0-FF2442)](https://www.xiaohongshu.com/user/profile/65b21361000000000e00224f)
 [![メール](https://img.shields.io/badge/%E3%83%A1%E3%83%BC%E3%83%AB-rattry4codex%40163.com-6E6F6B)](mailto:rattry4codex@163.com)
 
-<img src="assets/sec_trans_br.png" alt="wf672 — 横断面図集" width="340">&nbsp;<img src="assets/sec_long_color_wide.png" alt="wf672 — 縦断面" width="340">
+<img src="assets/sec_trans_br.png" alt="wf672 — 横断面図集" width="720">
+
+<img src="assets/sec_long_color_wide.png" alt="wf672 — 縦断面" width="720">
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [Русский](README.ru.md) · [Deutsch](README.de.md)
 
@@ -22,7 +24,7 @@
 
 wf672 は作者オリジナルの 3D プリント万年筆です。Releases から STL をダウンロードして自作し、その後はご自身で探求してください。未公開のファイル（説明書を含む）を作者に求めることはご遠慮ください。STL こそがプロジェクトのすべてです。
 
-白翎は丹東のペン工場が 1968 年に送り出した自動吸水シリーズで、毛細溝を切った内芯（愛好家は「トウモロコシ」と呼ぶ）を浸すだけでインクを吸います。wf672 はこの構造を復刻したものです。
+白翎（wf71 など）は丹東の工場が 1968 年から生産し続ける自動吸水シリーズで、その特徴は史上初の吸水毛细溝を持つ内芯——「トウモロコシ」構造——を採用したことです。wf672 はこの古典的な構造を復刻し、改良を加えています。
 
 <div align="center">
 
