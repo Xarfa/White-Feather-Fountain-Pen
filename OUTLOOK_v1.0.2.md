@@ -2,7 +2,7 @@
 
 > **文档编号** WF672-R-2026-012 · **版本** V1.0 · **日期** 2026-10-20 · **状态** 已发布（GitHub Release）
 > **分析对象** wf672 v1.0.1（Release STL，11 壳体 / 9 零件） · **许可** CC BY 4.0
-> PDF 版（含全部图版）：[Releases · v1.0.2-outlook](https://github.com/Xarfa/White-Feather-Fountain-Pen/releases/tag/v1.0.2-outlook)
+> **PDF 版（含全部图版）**：[v1.0.2 前瞻报告 10.20.pdf](https://github.com/Xarfa/White-Feather-Fountain-Pen/blob/main/v1.0.2%20%E5%89%8D%E7%9E%BB%E6%8A%A5%E5%91%8A%2010.20.pdf)（仓库原件）· [Releases · v1.0.2-outlook](https://github.com/Xarfa/White-Feather-Fountain-Pen/releases/tag/v1.0.2-outlook)（附件下载）
 
 **结构实测与日常使用问题分析 · Structural Survey and Daily-Use Issue Analysis**
 
