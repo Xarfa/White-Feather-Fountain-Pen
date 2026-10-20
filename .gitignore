@@ -12,3 +12,5 @@ photos/*_original.*
 *.docx
 *.pdf
 !LICENSE
+# 正式交付的报告 PDF 例外
+!v1.0.2 前瞻报告 10.20.pdf
